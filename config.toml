@@ -9,3 +9,10 @@ parallel-jobs = 1
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.44.478"
+
+[com.microblink.photomath]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+version = "36.5.4"
