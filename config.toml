@@ -11,7 +11,7 @@ parallel-jobs = 1
 #version = "9.0.44.478"
 
 [Strava]
-archive-dlurl = "https://github.com/soudblox/nichdant-revanced/releases/download/5/com.strava_411.10-12392291_2arch_7dpi_11lang_6b9fb1b348d180530286711dec563179_apkmirror.com.apkm"
+uptodown-dlurl = "https://strava.en.uptodown.com/android"
 
 #[Tiktok]
 #apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
