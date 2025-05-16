@@ -1,4 +1,3 @@
-Spotify: 9.0.44.478  
 Tiktok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
