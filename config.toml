@@ -11,7 +11,7 @@ parallel-jobs = 1
 #version = "9.0.44.478"
 
 [Strava]
-archive-dlurl = "https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2025/05/72/68228ba990111/com.strava_411.10-12392291_2arch_7dpi_11lang_6b9fb1b348d180530286711dec563179_apkmirror.com.apkm?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20250516%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250516T105304Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=28708d55049720dae96b086335db9c1756d845dc286a951a3995cca93a96b118"
+archive-dlurl = "https://github.com/soudblox/nichdant-revanced/releases/download/5/com.strava_411.10-12392291_2arch_7dpi_11lang_6b9fb1b348d180530286711dec563179_apkmirror.com.apkm"
 
 #[Tiktok]
 #apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
