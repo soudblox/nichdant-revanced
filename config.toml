@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-version = "9.0.46.496"
+version = "9.0.48.225"
 
 #[Strava]
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/strava-inc/strava-run-bike/"
